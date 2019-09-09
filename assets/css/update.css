@@ -1,0 +1,17 @@
+form{
+	text-align:center;
+	width:100%;
+	margin-top:10%;
+}
+
+input[type=text]{
+	width:300px;
+	padding:5px;
+}
+
+input[type=submit]{
+	width:120px;
+	padding:2px;
+	text-transform:uppercase;
+	cursor:pointer;
+}
